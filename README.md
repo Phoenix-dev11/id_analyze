@@ -57,7 +57,7 @@ Both flows use GPT-4o with strict validation rules and return consistent JSON fo
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/idcard_analysis.git
+git clone https://github.com/Phoenix-dev11/idcard_analysis.git
 
 # Navigate to the project directory
 cd idcard_analysis
